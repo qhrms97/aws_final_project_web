@@ -7,6 +7,7 @@
 ## PAGE LIST
 - 회원가입
 - 로그인
+- 비밀번호 찾기
 - DashBoard
 
 ## Work Item
