@@ -1,5 +1,5 @@
-# 프로젝트 (Django Web Server) xdfsadff
-
+# 프로젝트 (Django Web Server)
+- TEST
 > 🐤 교육기관용 그룹웨어 구축 및 제공 🐤
 
 ## API 명세서 [링크 제공 예정]
